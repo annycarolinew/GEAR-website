@@ -18,4 +18,4 @@ Para o desenvolvimento deste portal, utilizamos:
 ### 👥 Colaboradores
 
 * [Anny Almeida](https://github.com/annycarolinew) - *Web Designer / Desenvolvedora*
-* [Nicolle Taila](https://github.com/NicolleTO) - *Desenvolvedora*
+* [Nicolle Taila](https://github.com/NicolleTO) -*Web Designer / Desenvolvedora*
