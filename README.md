@@ -9,9 +9,10 @@
 
 
 ### Tecnologias e Ferramentas
+*Protótipo:*
 
 Para o desenvolvimento deste portal, utilizamos:
-* **Linguagens:** `HTML5`, `CSS3`, `JavaScript`
+* **Linguagens:** `HTML5`, `CSS`, `JavaScript`
 * **Design & Prototipagem:** `Figma` 
 
 
