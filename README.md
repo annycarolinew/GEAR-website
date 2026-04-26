@@ -1,4 +1,4 @@
-# Grupo de Estudos em Robótica Avançada
+# Grupo de Estudos Avançados em Robótica
 > O GEAR/UFMG é um grupo vinculado ao Departamento de Ciência da Computação (DCC) e ao laboratório VeRLab da Universidade Federal de Minas Gerais,.
 
 #### Missão
