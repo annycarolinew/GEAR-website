@@ -15,6 +15,7 @@ Para o desenvolvimento deste portal, utilizamos:
 * **Linguagens:** `HTML5`, `CSS`, `JavaScript`
 * **Design & Prototipagem:** `Figma` 
 
+<3
 
 ### 👥 Colaboradores
 
